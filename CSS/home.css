@@ -72,3 +72,8 @@ div.informacoes td{
  color: white;
  cursor: pointer;
 }
+.alinhar{
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
